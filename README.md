@@ -1,5 +1,6 @@
 # green-theme README
 
+中文/[English](https://github.com/Tron1234/green-theme/blob/main/README.en.md)
 ## 介绍
 该主题是我自定义主题基于hbuilder代码颜色和添加背景护眼色[#cce8cf]编写的，希望大家在敲代码的同时也要爱护自己的眼睛。
 
