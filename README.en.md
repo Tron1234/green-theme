@@ -1,6 +1,6 @@
 # green-theme README
 
-[English](https://github.com/Tron1234/green-theme/blob/main/README.md)/中文
+English/[中文]((https://github.com/Tron1234/green-theme/blob/main/README.md))
 ## Introduce
 This theme is my custom theme based on hbuilder code color and add background eye color [#cce8cf] prepared, I hope everyone in the code also want to take good care of their eyes.
 
