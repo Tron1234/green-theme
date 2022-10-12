@@ -1,0 +1,22 @@
+{
+  "name": "green-theme",
+  "displayName": "green-theme",
+  "description": "green-theme",
+  "version": "1.0.0",
+  "publisher": "flyyn2",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "green-theme",
+        "uiTheme": "vs",
+        "path": "./themes/green-theme-color-theme.json"
+      }
+    ]
+  }
+}
